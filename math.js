@@ -18,3 +18,9 @@ console.log(double(5));
 console.log(square(4));
 console.log(isEven(6));
 console.log(isOdd(7));
+
+function multiply(a,b) {
+  return a * b;
+}
+
+console.log(multiply(3,4));
